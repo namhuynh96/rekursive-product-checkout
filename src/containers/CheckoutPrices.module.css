@@ -1,0 +1,9 @@
+.inputWrapper {
+  display: flex;
+  gap: 20px;
+  margin-bottom: 20px;
+}
+
+.checkoutBtn {
+  margin-bottom: 20px;
+}
